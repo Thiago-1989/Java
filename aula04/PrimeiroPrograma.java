@@ -2,6 +2,8 @@ package primeiroprograma;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {
-        System.out.println("Olá, mundo!");
+        System.out.println("Hello, world!");
+        var name = "Thiago";
+        System.out.println("My name is " + name);
     }
 }
