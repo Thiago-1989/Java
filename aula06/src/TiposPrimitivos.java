@@ -14,6 +14,9 @@ public class TiposPrimitivos {
         Character letra = 'A';
 
         boolean casado = (boolean) true;
+        boolean casado2 = (boolean) false;
+        Boolean casado3 = (Boolean) Boolean.TRUE;
+        Boolean casado4 = new Boolean(true);
 
         System.out.println("Hello world!");
         System.out.println(idade);
